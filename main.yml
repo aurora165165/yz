@@ -1,0 +1,39 @@
+<!DOCTYPE html >
+< html >
+		<元 字符集=" utf-8 " />
+		<标题> </标题>
+	</头>
+	<风格> 
+	正文{文本对齐：居中}
+	. divcss5 {边距：0自动；宽度：400像素；高度：100像素；边框：1 px实心# 000 }
+	/* CSS 注释：设置边框、宽度、高度便于观察排列 */ 
+	</风格> 
+	<正文 背景=" img/mj.jpg " >
+		
+		
+		
+	   < h1   style =" font-size:30px " > < i >欢迎来到幻塔世界</ i > </ h1 >
+		<表格 边框=“ 1 ” >
+		< tr >
+		< td > </ td >
+		
+		</ tr >
+		< tr >
+			
+		< td > < p  style =" font - family :verdana;color:blue " > < i > < / i > </ p > <a href="http://www.baidu.com">请注册 < /一个> </ td > 
+		< td >  </ td >
+		</ tr >
+		</表>
+		<表格 边框=“ 2 ” >
+		< tr >
+		< td > </ td >
+		
+		</ tr >
+		< tr >
+		< td > < p  style =" font - family :verdana;color:blue " > < i > < / i > < / p > <a href="http://www.baidu.com">登入< / a  > </ td > 
+		< td >  </ td >
+		</ tr >
+		</表>
+		
+	</正文>
+</ html >
